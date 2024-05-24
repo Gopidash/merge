@@ -1,0 +1,21 @@
+import java.util.*;
+public class Main
+{
+  public static void main (String[]args)
+  {
+//              System.out.println("Hello World");
+// int x =5;
+// System.out.println(x++);
+    // System.out.println (++x);
+     Scanner sc = new Scanner (System.in);
+    int x = sc.nextInt ();
+    // System.out.print(x);
+    // ConcatinaTION IS A Basic Word for combaining in two words (Strings)
+    
+    
+    // Prob-1
+    // Print It -- Hello World 6
+    // int x =6;
+    System.out.println("The value of x is:= " + x );
+  }
+}
